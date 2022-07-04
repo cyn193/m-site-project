@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(39, 30, 18) 78.9%);
+}
+
+h1,
+h2 {
+    color: #F3E998;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#graphic-car {
+    text-align: center;
+
+}
