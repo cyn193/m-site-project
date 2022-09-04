@@ -1,9 +1,11 @@
 :root {
     --main-color: #F3E998;
+    --main-border: 1px solid black;
 }
 
 body {
     background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(39, 30, 18) 78.9%);
+
 }
 
 h1 {
@@ -11,19 +13,17 @@ h1 {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     color: var(--main-color);
     margin-top: 25px;
 }
 
-#graphic-car {
-    text-align: center;
-
-}
 
 .hero {
 
     text-align: center;
+
 
 }
 
